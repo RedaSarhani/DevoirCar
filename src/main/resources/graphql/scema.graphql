@@ -1,0 +1,6 @@
+type CarDTO {
+    model: String
+    color: String
+    matricul: String
+    price: Float
+}

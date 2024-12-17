@@ -1,0 +1,6 @@
+type Car{
+    model : String
+    color : String
+    matricul : String
+    price : Float
+}

@@ -1,0 +1,6 @@
+input CarInput{
+    model : String
+    color : String
+    matricul : String
+    price : Float
+}
